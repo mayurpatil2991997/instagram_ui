@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:instagram_ui/icon_constants.dart';
+import 'package:instagram_ui/constants/icon_constants.dart';
 import 'package:instagram_ui/screen/Home_screen/main_home_screen.dart';
 
 class SplashScreen extends StatefulWidget {

@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:instagram_ui/icon_constants.dart';
+import 'package:instagram_ui/constants/icon_constants.dart';
 import 'package:instagram_ui/screen/Home_screen/user_post.dart';
 import 'package:instagram_ui/screen/Home_screen/user_story.dart';
 
