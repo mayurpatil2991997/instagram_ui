@@ -26,7 +26,7 @@ class _SplashScreenState extends State<SplashScreen> {
         child: Center(
             child: SvgPicture.asset(
               INSTAGRAM_LOGO,
-              height: 65.0,
+              height: 95.0,
             ),
         ),
 
